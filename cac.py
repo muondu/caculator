@@ -9,7 +9,6 @@ def caculate():
     - for subtraction
     * for multiplication
     / for division
-
     """ )
 
     input1 = int(input("Enter your first number:  "))
@@ -37,9 +36,9 @@ def caculate():
         print(input1 / input2)
 
 
-     #Adding opperators
+     #Square root  opperators
     #elif operators == "@":
-        #input3 = int("Enter one number to get the square root:   ")
+        #input3 = ("Enter one number to get the square root:   ")
         #print(" √{}" .format(input3))
         #x = sqrt(input3)
         #print(x)
